@@ -1,0 +1,5 @@
+install opencv
+pip install opencv-python
+
+Project Description
+This script was developed for a master’s project. It opens a .tiff image and creates layers from it, allowing for a clearer visualization of the cells. The images are then compared to determine the differences in cell counts. The script is lightweight, ensuring it can run on older machines.
